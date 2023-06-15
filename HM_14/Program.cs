@@ -8,10 +8,6 @@ Ramis.jinsi = true;
 Nigora.jinsi = false;
 
 
-int a = 0;
-const int b = 1;
-
-
 Ramis.Marry(Nigora);
 
 Person.divorse(Ramis,Nigora);
